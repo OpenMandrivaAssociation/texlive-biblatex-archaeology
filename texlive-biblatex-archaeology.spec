@@ -1,6 +1,6 @@
 Name:		texlive-biblatex-archaeology
 Version:	53281
-Release:	1
+Release:	2
 Summary:	A collection of BibLaTeX styles for German prehistory
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-archaeology
