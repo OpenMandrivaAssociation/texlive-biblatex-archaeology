@@ -3,7 +3,7 @@ Version:	53281
 Release:	2
 Summary:	A collection of BibLaTeX styles for German prehistory
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-archaeology
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-archaeology
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/biblatex-archaeology.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/biblatex-archaeology.doc.r%{version}.tar.xz
